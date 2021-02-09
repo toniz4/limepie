@@ -10,5 +10,7 @@ discernible.
 ```sh
 ~ $ git clone https://github.com/toniz4/limepie	
 ~ $ cd limepie
+~ $ mkdir ~/.local/share/fonts # if this directory doesn't exist
 ~ $ cp *bdf ~/.local/share/fonts/
+~ $ fc-cache
 ```
