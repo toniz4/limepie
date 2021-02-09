@@ -10,5 +10,5 @@ discernible.
 ```sh
 ~ $ git clone https://github.com/toniz4/limepie	
 ~ $ cd limepie
-~ $ cp *bdf ~/.local/share/fonts
+~ $ cp *bdf ~/.local/share/fonts/
 ```
